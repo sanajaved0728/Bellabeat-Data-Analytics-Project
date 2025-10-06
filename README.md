@@ -28,10 +28,9 @@ The focus is on Bellabeat, company that manufactures smart devices for women. Th
 -Promote Bellabeat’s sleep-tracking features
 
 ## Project Files
-
-Complete analysis report from Ask to Act phase -
+Complete analysis report from Ask to Act phase - [this Bellabear_report](Bellabeat_report.pdf)
 Powerpoint summary -
-Interactive dashboard - 
+Interactive dashboard - <a href=""> </a>
 
 ## Author
 Sana Javed
