@@ -30,7 +30,7 @@ The focus is on Bellabeat, company that manufactures smart devices for women. Th
 ## Project Files
 Complete analysis report from Ask to Act phase - [Bellabeat_report](Bellabeat_report.pdf)  
 Powerpoint summary - [Bellabeat_Presentation](Bellabeat_Presentation.pdf)  
-Interactive dashboard - <a href="https://public.tableau.com/views/bellabeat2_17598187026140/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> </a>
+Interactive dashboard - <a href="https://public.tableau.com/views/bellabeat2_17598187026140/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Bellabeat_Dashboard</a>
 
 ## Author
 Sana Javed  
